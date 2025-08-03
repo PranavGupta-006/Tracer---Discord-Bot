@@ -308,5 +308,5 @@ def remove_empty_folders(directory="./uploads"):
 
 
 
-TOKEN = os.getenv("DISCORD_BOT_TOKEN", "MTMzNzgxMTA0MjQ4MjUyNDI2Mg.GDez63.9tvLYDm87rIgILO-L8VlkC8aKScbBE2q4secfg")  
+TOKEN = os.getenv("DISCORD_BOT_TOKEN", "INSERT_SERVER_TOKEN_HERE!!!!")  
 bot.run(TOKEN)
